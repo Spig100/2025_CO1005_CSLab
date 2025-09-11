@@ -11,9 +11,4 @@ If user ask to do division and the first value isn't divisible by the second one
 # Problem 2
 Prompt the user to input a decimal integer N, at most 10 digits, and keep calculating the sum of each digits until the sum value has 1 digit left.
 
-For example, if the user input $9,876,543,210$, then the progress would be:
-$$
-9+8+7+6+5+4+3+2+1+0=45
-\to 4+5=9
-$$
-, then the result will be $9$.
+For example, if the user input $9,876,543,210$, then the progress would be: $9+8+7+6+5+4+3+2+1+0=45 \to 4+5=9$, then the result will be $9$.
